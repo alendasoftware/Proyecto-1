@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<div class=\"column clearfix\">\n	<div class=\"one-fourth first\"><img class=\"alignnone wp-image-343 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalaciones_portería-150x150.jpg\" alt=\"Entrada al edificio\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-341 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalaciones_edificio-150x150.jpg\" alt=\"Edificio\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-342 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalaciones_entrada-150x150.jpg\" alt=\"Entrada bufete\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-344 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalaciones_portería2-150x150.jpg\" alt=\"Portería edificio\" width=\"150\" height=\"150\" /></div>\n</div>\n\n<div class=\"column clearfix\">\n	<div class=\"one-fourth first\"><img class=\"alignnone wp-image-148 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalacones_03-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-147 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalacones_02-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-154 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalacones_01-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></div>\n	<div class=\"one-fourth\"><img class=\"alignnone wp-image-157 size-thumbnail\" src=\"http://localhost/bufetebendodo/wp-content/uploads/2015/12/instalacones_04-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></div>\n</div>",
+			"settings":
+			{
+				"buffer_size": 1844,
+				"line_ending": "Windows",
+				"name": "<div class=\"column clearfix\">"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ag-consultores/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ag-consultores/wp-admin/install.php",
+			"settings":
+			{
+				"buffer_size": 15369,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/bufetebendodo/wp-config-pro.php",
+		"/C/xampp/htdocs/bufetebendodo/wp-config.php",
+		"/C/xampp/htdocs/bufetebendodo/.htaccess",
+		"/C/xampp/htdocs/bufetebendodo/wp-config_pro.php",
+		"/C/xampp/htdocs/bufetebendodo/wp-config-desarrollo.php",
+		"/C/xampp/htdocs/profesorchambel/admin/respuestas/editor.php",
+		"/C/xampp/htdocs/profesorchambel/admin/preguntas/editor.php",
+		"/C/Users/efgp6/Desktop/PFC/CD1/Despliegue Web/admin/preguntas/editor.php",
+		"/C/Users/Quique/Google Drive/PFC/CD1/Despliegue Web/dibujos/estilo.css",
+		"/C/xampp/htdocs/profesorchambel/creditos.html",
+		"/C/xampp/htdocs/profesorchambel/dibujos/estilo.css",
+		"/C/xampp/htdocs/profesorchambel/index.php",
+		"/C/xampp/htdocs/profesorchambel/admin/exportar/exportarDatos.php",
+		"/C/xampp/htdocs/profesorchambel/admin/exportar/exportarTipos.php",
+		"/C/xampp/htdocs/profesorchambel/admin/exportar/home.php",
+		"/C/xampp/htdocs/profesorchambel/juego/index.php",
+		"/C/xampp/htdocs/profesorchambel/juego/PRINCIPAL.html",
+		"/C/xampp/htdocs/profesorchambel/admin/Connections/validar_session.php",
+		"/C/xampp/htdocs/profesorchambel/admin/preguntas/home.php",
+		"/C/xampp/htdocs/profesorchambel/admin/preguntas_tipos/home.php",
+		"/C/xampp/htdocs/profesorchambel/admin/respuestas/home.php",
+		"/C/xampp/htdocs/profesorchambel/admin/dibujos/estilo.css",
+		"/C/xampp/htdocs/profesorchambel/admin/index.php",
+		"/C/xampp/htdocs/profesorchambel/admin/exportar/resumen.php",
+		"/C/Users/Quique/Desktop/PFC/Profesor Chambel/FUENTE/FLASH AS3/en/PRINCIPAL_en.xml",
+		"/C/Users/Quique/Desktop/PFC/Profesor Chambel/FUENTE/FLASH AS3/es/PRINCIPAL_es.xml",
+		"/C/xampp/htdocs/profesorchambel/admin/preguntas_tipos/editor.php",
+		"/C/xampp/htdocs/profesorchambel/admin/login.php",
+		"/C/xampp/htdocs/profesorchambel/admin/Connections/variables_session.php",
+		"/C/xampp/htdocs/profesorchambel/admin/desconectar.php",
+		"/C/xampp/htdocs/profesorchambel/admin/validar.php",
+		"/C/xampp/htdocs/profesorchambel/admin/_include/paginacion.php",
+		"/C/xampp/htdocs/profesorchambel/juego/xml/trivia_es.xml",
+		"/C/xampp/htdocs/profesorchambel/admin/Connections/con_panel.php",
+		"/C/xampp/htdocs/profesorchambel/report.php",
+		"/C/xampp/htdocs/profesorchambel/admin/_include/imagenes.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/CD/MASTER/xml/trivia_es.xml",
+		"/C/xampp/htdocs/profesorchambel/ProfesorChambel.sublime-project",
+		"/C/xampp/htdocs/bufeteBendodo/wp-content/themes/interface/inc/footer_info/interface-footer_info.php",
+		"/C/xampp/htdocs/bufeteBendodo/wp-config.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/index1.html",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/juego/xml/trivia_es.xml",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/CapitánAlborán.sublime-project",
+		"/C/xampp/htdocs/profesorchambel/admin/dibujos/estilo.css.LCK",
+		"/C/xampp/htdocs/CapitanAlboran/admin/preguntas_tipos/editor.php",
+		"/C/xampp/htdocs/CapitanAlboran/admin/preguntas_tipos/home.php",
+		"/C/xampp/htdocs/CapitanAlboran/admin/preguntas/editor.php",
+		"/C/xampp/htdocs/CapitanAlboran/admin/preguntas/home.php",
+		"/C/xampp/htdocs/CapitanAlboran/admin/Connections/con_panel.php",
+		"/C/xampp/htdocs/CapitanAlboran/index.php",
+		"/C/xampp/htdocs/CapitanAlboran/admin/Connections/variables_session.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/preguntas_tipos/home.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/validar.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/desconectar.php.LCK",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/index.php",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/generatepress/inc/add-ons/colors.php",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/generatepress/css/superfish.css",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/generatepress/inc/css/jquery-ui.structure.css",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/generatepress/inc/css/editor-style.css",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/generatepress/inc/css/customizer.css",
+		"/C/xampp/htdocs/expocruceros/blog/wp-content/themes/twentyfifteen/_header.php",
+		"/C/xampp/htdocs/expocruceros/blog/wp-config.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/Connections/con_panel.php",
+		"/C/Users/Quique/curso/merge.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/merge.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/p2p.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/EjerObligatorio.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Para evaluar/Modulo2_P2P.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Ejercicio P2P Mod 2.js",
+		"/C/Users/Quique/Desktop/Curso node.js MiriadaX/Ejercicio P2P Mod 1.js",
+		"/C/Users/Quique/Desktop/Ejerccicio P2P Mod 1.js",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/BD/CapitanAlboran.sql",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/preguntas/home.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/report.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/juego/index.php",
+		"/C/Users/Quique/Desktop/PFC/Capitán Alborán/WEB/admin/respuestas/editor.php",
+		"/C/Users/Quique/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/hosted/manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/_package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/_manifest.webapp",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/index.html",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/rutas.html",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/mod10_ejemplos/packed/package.manifest",
+		"/C/Users/Quique/Desktop/Curso HTML5 MiriadaX/modulo10/Ejercicio Modulo 10/packed/package.manifest1"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\profesorchambel",
+			"C:\\xampp\\htdocs\\profesorchambel\\admin",
+			"C:\\xampp\\htdocs\\profesorchambel",
+			"C:\\xampp\\htdocs\\profesorchambel\\admin",
+			"C:\\xampp\\htdocs\\profesorchambel"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"one-half",
+			"la Bufete",
+			"MI EMPRESA",
+			"@",
+			"com",
+			"NOMBRE DE MI EMPRESA",
+			"la NOMBRE DE MI EMPRESA",
+			"header",
+			"html",
+			"resumen.php",
+			"resumen",
+			"Captain Alboran",
+			"Capitán Alborán",
+			"utf",
+			"utf-8",
+			"$_SESSION['orden",
+			"$_SESSION['orden'",
+			"utf-8",
+			"iso-8859-1",
+			"iso-8859",
+			"bdidioma",
+			"prt_nombre",
+			"fotos",
+			"ruta_imagen",
+			"fotos",
+			"report.php",
+			"report",
+			"abreUrl",
+			"menu.js",
+			"imagenes.php",
+			"ponSelectorGestor",
+			"orden",
+			"opcionPanel",
+			"orden",
+			"opcionPanel",
+			"opcion_panel",
+			"mysql_free_result",
+			"categoria='0",
+			"$cad_tipo",
+			"alboran",
+			"marca",
+			"codigo",
+			"erro",
+			"marca",
+			"$codigo",
+			"$_REQUEST",
+			"$orden",
+			"222222",
+			"222"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"one-fourth",
+			"Bufete Bendodo",
+			"Theacher Chambel",
+			"Profesor Chambel",
+			"$_SESSION['ordenP",
+			"$_SESSION['ordenPT'",
+			"$_SESSION['ordenR'",
+			"iso-8859-1",
+			"utf-8"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 1844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1844,
+								1844
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"column clearfix\">",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/ag-consultores/wp-config.php",
+					"settings":
+					{
+						"buffer_size": 3186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								936,
+								936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/ag-consultores/wp-admin/install.php",
+					"settings":
+					{
+						"buffer_size": 15369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
